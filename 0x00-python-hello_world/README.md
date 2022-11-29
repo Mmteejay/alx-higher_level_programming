@@ -1,1 +1,2 @@
-This directory contains introductory tasks to python.
+0x00. Python - Hello, World
+by Camilo Baquero www.camilob.com
